@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:075985,100:0EA5E9&text=Ahmed%20Raza%20Qadri&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Cloud%20%26%20DevOps%20%7C%20Software%20Engineering%20%7C%20Flutter&descAlignY=59&descSize=16" alt="Ahmed Raza Qadri — Cloud and DevOps, Software Engineering, Flutter" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:075985,100:0EA5E9&text=Ahmed%20Raza%20Qadri&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Cloud%20and%20DevOps%20%7C%20Software%20Engineering%20%7C%20Flutter&descAlignY=59&descSize=16" alt="Ahmed Raza Qadri — Cloud and DevOps, Software Engineering, Flutter" width="100%" />
 
 ### Building applications. Automating delivery. Learning to engineer reliable cloud systems.
 
